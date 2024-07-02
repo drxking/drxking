@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://www.sudipacharya456.com.np](sudipacharya456.com.np)
+- 👨‍💻 All of my projects are available at [sudipacharya456.com.np](https://www.sudipacharya456.com.np)
 
 - 📫 How to reach me **drxking456@gmail.com**
 
