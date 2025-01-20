@@ -27,4 +27,3 @@
 
 <p align="center"><img style="width:50%;"  src="https://github-readme-stats.vercel.app/api?username=drxking&show_icons=true&locale=en" alt="drxking" /></p>
 
-<p align="center"><img  style="width:50%;" src="https://github-readme-streak-stats.herokuapp.com/?user=drxking&" alt="drxking" /></p>
