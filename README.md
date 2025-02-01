@@ -6,13 +6,10 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Blabla**
-
-- 🌱 I’m currently learning **Backend Development**
 
 - 👨‍💻 All of my projects are available at [https://sudipacharya456.com.np](https://sudipacharya456.com.np)
 
-- 📫 How to reach me **drxking456@gmail.com**
+- 📫 How to reach me **xtre969@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
